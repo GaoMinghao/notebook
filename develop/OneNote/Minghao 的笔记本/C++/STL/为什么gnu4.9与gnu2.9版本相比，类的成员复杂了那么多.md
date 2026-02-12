@@ -1,0 +1,1 @@
+使用了OO里面一个叫做 handle and body的设计模式

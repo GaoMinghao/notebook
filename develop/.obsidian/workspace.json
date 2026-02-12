@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "292d55d9932fe5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fbb3f3e82023545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf7085cd4451979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux 文本操作.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linux 文本操作"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e981fcb0161b57a",
+    "type": "split",
+    "children": [
+      {
+        "id": "899bb0d15e196afb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdd31e92b8013ea3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fb0cdb5bbf2b7b23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "207ffc6234555b2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef54b238002114c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de3a8214082615a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4acda1d7c5f81ad2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux 文本操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linux 文本操作 的反向链接列表"
+            }
+          },
+          {
+            "id": "fa337f8df2a5fa45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux 文本操作.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Linux 文本操作 的出链列表"
+            }
+          },
+          {
+            "id": "ec1b7b6134399afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0911be6ad07e5104",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "10599edefadb2bf9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux 文本操作.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Linux 文本操作 的大纲"
+            }
+          },
+          {
+            "id": "c23b3ca5db975ebb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dbf7085cd4451979",
+  "lastOpenFiles": [
+    "欢迎.md",
+    "Linux 文本操作.md",
+    "OneNote/Minghao 的笔记本/attach/clumbia 论文导读.pdf",
+    "OneNote/Minghao 的笔记本/C++/size_of vs strlen.md",
+    "OneNote/Minghao 的笔记本/attach",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212171715-0.png",
+    "OneNote/Minghao 的笔记本/性能优化/IO/网络IO性能调优的方法.md",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212172158-1.png",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212172244-2.png",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212171042-1.png",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212171038-0.png",
+    "OneNote/Minghao 的笔记本/数据库/优化器/Columbia 框架.md",
+    "OneNote/Minghao 的笔记本/数据库/时序/Parquet 格式.md",
+    "OneNote/Minghao 的笔记本/计算机网络/Untitled-20260212172340.md",
+    "OneNote/Minghao 的笔记本/计算机网络",
+    "OneNote/Minghao 的笔记本/算法/动态规划 1.md",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212172331-0.jpeg",
+    "OneNote/Minghao 的笔记本/算法/链表 1.md",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212172320-0.jpeg",
+    "OneNote/Minghao 的笔记本/算法/链表.md",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212172313-0.jpeg",
+    "OneNote/Minghao 的笔记本/算法/数组、栈、链表.md",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212172306-0.jpeg",
+    "OneNote/Minghao 的笔记本/算法/动态规划.md",
+    "OneNote/Minghao 的笔记本/attach/Exported image 20260212172258-0.jpeg",
+    "OneNote/Minghao 的笔记本/算法",
+    "OneNote/Minghao 的笔记本/常用工具",
+    "OneNote/Minghao 的笔记本/C++/析构/完美转发.md",
+    "OneNote/Minghao 的笔记本/C++/析构",
+    "OneNote/Minghao 的笔记本/C++/值类别与移动语义/值类别与移动语义.md",
+    "OneNote/Minghao 的笔记本/C++/值类别与移动语义",
+    "OneNote/Minghao 的笔记本/C++/inline.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/析构.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/下面代码中为什么 delete, 能否改成 delete.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/仿函数.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/虚函数表.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/虚函数.md",
+    "OneNote/Minghao 的笔记本/C++/拷贝构造函数/调用情况探究.md",
+    "OneNote/Minghao 的笔记本/C++/拷贝构造函数",
+    "OneNote/Minghao 的笔记本/C++/面向对象/拷贝构造函数.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/类中的静态变量为什么要在类外定义，否则编译会报错.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/类之间的关系.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象/智能指针-重载.md",
+    "OneNote/Minghao 的笔记本/C++/面向对象",
+    "OneNote/Minghao 的笔记本/C++/traits"
+  ]
+}
